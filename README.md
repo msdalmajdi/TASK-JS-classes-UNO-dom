@@ -2,7 +2,7 @@
 
 You are going to make a super cool UNO Game! 😎
 
-![Uno Image](https://user-images.githubusercontent.com/8784343/147656090-3410c967-3b0e-4f3b-8eb0-0275fb262658.png)
+![Uno Image](https://user-images.githubusercontent.com/8784343/147690468-b6b31b97-a6f0-4cfd-a1b1-aa03d606f8b9.png)
 
 ## Instructions
 
